@@ -31,6 +31,13 @@
   type: working-paper
   venue: "Submitted (manuscript on request)"
 
+- title: "Topological Learning of LLM-based Multi-Agent Systems"
+  authors:
+    - "Thao Le"
+  year: 2026
+  type: work-in-progress
+  venue: "Work in Progress"
+
 - title: "Interpretable Role-Based Clustering in Multi-Layer Financial Networks"
   authors:
     - "Christian Franssen"
@@ -40,13 +47,6 @@
   year: 2025
   type: working-paper
   venue: "Working paper"
-
-# - title: "Topological Learning of LLM-based Multi-Agent Systems: A Markovian Approach"
-#   authors:
-#     - "Thao Le"
-#   year: 2025
-#   type: work-in-progress
-#   venue: "Work in Progress"
 
 - title: "Community Structures in Markov Influence Graphs with Heterogeneous Holding Times"
   authors:
