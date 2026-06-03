@@ -41,6 +41,13 @@
   type: working-paper
   venue: "Working paper"
 
+- title: "Topological Learning of LLM-based Multi-Agent Systems: A Markovian Approach"
+  authors:
+    - "Thao Le"
+  year: 2025
+  type: work-in-progress
+  venue: "Work in Progress"
+
 - title: "Community Structures in Markov Influence Graphs with Heterogeneous Holding Times"
   authors:
     - "Thao Le"
