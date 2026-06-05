@@ -1,6 +1,14 @@
 # Research Projects
 # =================
 
+- title: "Optimizing the Surprise Element of Surveillance Policies"
+  authors:
+    - "Thao Le"
+    - "Bernd Heidergott"
+  year: 2026
+  type: working-paper
+  venue: "Forthcoming at Winter Simulation Conference 2026 (manuscript on request)"
+
 - title: "Random Walks with Traversal Costs: Variance-Aware Performance Analysis and Network Optimization"
   authors:
     - "Thao Le"
@@ -22,14 +30,6 @@
   year: 2026
   type: preprint
   venue: "SSRN"
-
-- title: "Optimizing the Surprise Element of Surveillance Policies"
-  authors:
-    - "Thao Le"
-    - "Bernd Heidergott"
-  year: 2026
-  type: working-paper
-  venue: "Submitted (manuscript on request)"
 
 - title: "Topological Learning of LLM-based Multi-Agent Systems"
   authors:
