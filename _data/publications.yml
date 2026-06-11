@@ -38,6 +38,15 @@
   type: work-in-progress
   venue: "Work in Progress"
 
+- title: "Signal Flow Via First Hit Paths"
+  authors:
+    - "Robbert van der Burg"
+    - "Bernd Heidergott"
+    - "Thao Le"
+  year: 2026
+  type: work-in-progress
+  venue: "Work in Progress"
+
 - title: "Interpretable Role-Based Clustering in Multi-Layer Financial Networks"
   authors:
     - "Christian Franssen"
